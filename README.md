@@ -1,4 +1,4 @@
-#【授業課題用】
+# 【授業課題用】
 # flutter_janken
 
 A new Flutter project.
